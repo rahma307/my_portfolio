@@ -47,7 +47,7 @@ export default function Hero() {
               transition={{ duration: 0.5, delay: 0.2 }}
               className="text-dark-muted text-lg sm:text-xl max-w-xl mx-auto lg:mx-0 mb-8 leading-relaxed"
             >
-              Computer Engineering student passionate about building responsive,
+              Software Engineering student passionate about building responsive,
               user-focused web applications with modern frontend and backend
               technologies.
             </motion.p>
