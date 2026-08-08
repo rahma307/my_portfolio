@@ -21,7 +21,7 @@ export default function About() {
           <div className="grid lg:grid-cols-2 gap-12 items-start">
            <div className="space-y-6 text-dark-muted leading-relaxed text-lg">
   <p>
-    I'm a Computer Engineering student at Benha University and a Full-Stack 
+    I'm a Siftware Engineering student at Benha University and a Full-Stack 
     Developer who loves bridging the gap between clean design and robust engineering. 
     I specialize in building scalable web applications that solve real-world problems.
   </p>
